@@ -36,9 +36,9 @@ The system is composed of the following key components:
 
 | Component                  | Description                                                             |
 |----------------------------|-------------------------------------------------------------------------|
-| **Solar Panel**            | **100W** monocrystalline photovoltaic panel that efficiently converts sunlight into electricity. |
+| **Solar Panel**            | **40W** monocrystalline photovoltaic panel that efficiently converts sunlight into electricity. |
 | **Solar Charge Controller** | **10A PWM charge controller** that regulates the voltage and current from the solar panel to the battery, preventing overcharging and extending battery life. |
-| **Battery Pack**           | **12V lead-acid or lithium-ion battery** with a capacity of **20Ah**, providing sufficient energy storage for various applications. |
+| **Battery Pack**           | **18V lead-acid or lithium-ion battery** with a capacity of **20Ah**, providing sufficient energy storage for various applications. |
 | **DC Loads**               | Devices powered by the stored energy, including:                       |
 |                            | - **12V DC Motor**: For mechanical applications.                        |
 |                            | - **LED Lights**: Consuming **0.5W to 3W** per bulb, providing efficient illumination. |
@@ -82,9 +82,9 @@ To install the system, follow these steps:
 
 | Parameter                  | Value                                  |
 |----------------------------|----------------------------------------|
-| **Solar Panel Power**      | 100W                                   |
+| **Solar Panel Power**      | 40W                                   |
 | **Charge Controller Current** | 10A                                 |
-| **Battery Voltage**        | 12V                                    |
+| **Battery Voltage**        | 18V                                    |
 | **Battery Capacity**       | 20Ah                                   |
 | **DC Load Examples**       | 12V DC Motor, LED lights, Mobile Charger |
 
